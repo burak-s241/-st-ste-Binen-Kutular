@@ -1,0 +1,17 @@
+#kutu1{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+#kutu2{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 20px;
+    opacity:0.7;
+}
